@@ -1,4 +1,4 @@
-# eoLinker AMS(API接口管理系统开源版-Java语言版)
+# eoLinker AMS(API接口管理系统开源版-For Java)
 
 ![](http://data.eolinker.com/course/tQuZi4fbd63db2e0ba06a411d838e111231dd4ca8ab536b)
 
